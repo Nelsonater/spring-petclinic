@@ -65,6 +65,13 @@
 
     <dependencies>
         <dependency>
+            <groupId>com.sun</groupId>
+            <artifactId>tools</artifactId>
+            <version>1.6</version>
+            <scope>system</scope>
+            <systemPath>/home/nelson/jdk1.8.0_121/lib/tools.jar</systemPath>
+        </dependency>
+        <dependency>
             <groupId>org.jadira.usertype</groupId>
             <artifactId>usertype.core</artifactId>
             <version>${jadira-usertype-core.version}</version>
