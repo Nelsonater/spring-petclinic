@@ -118,7 +118,7 @@
             <exclusions>
                 <exclusion>
                     <groupId>org.springframework</groupId>
-                    <artifactId>*</artifactId>
+                    <artifactId></artifactId>
                 </exclusion>
                 <!--  because Spring Data usually comes with a slightly older version of Spring -->
             </exclusions>
