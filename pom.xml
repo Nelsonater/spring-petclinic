@@ -421,11 +421,11 @@
     <distributionManagement>
       <snapshotRepository>
         <id>snapshots</id>
-        <url>http://localhost:8081/repository/maven-snapshots</url>
+        <url>http://132.241.127.142:18081/repository/maven-snapshots</url>
       </snapshotRepository>
       <repository>
         <id>deployment</id>
-        <url>http://localhost:8081/repository/maven-releases</url>
+        <url>http://132.241.127.142:18081/repository/maven-releases</url>
       </repository>
     </distributionManagement>
 
