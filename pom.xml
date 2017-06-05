@@ -417,6 +417,12 @@
             </plugin>
         </plugins>
     </reporting>
+   <repositories>
+      <repository>
+        <id>snapshots</id>
+        <url>http://172.31.17.198:8081/repository/maven-snapshots/</url>
+      </repository>
+    </repositories>
 
     <distributionManagement>
       <snapshotRepository>
