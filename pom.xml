@@ -177,7 +177,6 @@
         <dependency>
             <groupId>joda-time</groupId>
             <artifactId>joda-time</artifactId>
-            <version>${jodatime.version}</version>
         </dependency>
         <dependency>
             <groupId>joda-time</groupId>
